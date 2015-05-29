@@ -7,7 +7,7 @@ Download the folder and drag it into your application folder.
 
 Loading the library:
 
-$this->load->library('logviewer');
+    $this->load->library('logviewer');
 
 Get all files:
 
